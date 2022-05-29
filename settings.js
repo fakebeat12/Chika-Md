@@ -22,14 +22,14 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6282150277960'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6282150277960'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6282150277960' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Wanz-store' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'JuanBoz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Wanz-store' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
@@ -41,8 +41,8 @@ global.email = 'riychdwaynee@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© Wanz-Store' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Wan' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -57,7 +57,7 @@ free: 15,
 
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.thumb = fs.readFileSync('./image/chika.jpg')
+global.thumb = fs.readFileSync('./image/wan.jpg')
 /*global.veloriy = fs.readFileSync('./image/chika.mp4')*/
 
 //—————「 Set Image Welcome 」—————//
